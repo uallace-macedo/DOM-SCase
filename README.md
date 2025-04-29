@@ -18,8 +18,6 @@
 O **DOM (Document Object Model)** é a estrutura em árvore que representa os elementos HTML de uma página.
 Com JavaScript, conseguimos acessar, modificar e responder a interações nessa árvore 🪴
 
-> "Se o HTML é o corpo da página, o DOM é seu esqueleto — e o JS é quem o movimenta." 💀💃
-
 ---
 
 ## 📁 study-cases/
@@ -51,4 +49,3 @@ Cada pasta contém:
 | 📝 Todo List    | Lista de tarefas com add/remove/marcar feitas               |Em breve|
 | 📦 Modal        | Modal customizado com JS puro                               |Em breve|
 |
-
